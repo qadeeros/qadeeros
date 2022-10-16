@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time I am streaming content on my TV or mobile device.
 
+##Background##
+Analytics consultant with over 15 years hands-on experience of implementing Analytics projects in the domain of marketing. Proficient in multiple coding languages and cloud platforms, including SQL and Python. Expertise with data visualisation tools as an end-user and developer of dashboards and apps (not admin tasks) including: Domo, Tableau, PowerBI and Data Studio.
+
+##Contact me##
  📫 How to reach me: LinkedIn or email me!
 -->
