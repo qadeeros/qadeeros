@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on hands on exercises to learn advanced data analytics and data science concepts.
-- 🌱 I’m currently in the process of unifying all my respository under one GitHub profile, basics of data science concepts both supervised and unsuperised. 
+- 🌱 I’m currently in the process of unifying all my respositories under one GitHub profile, basics of data science concepts both supervised and unsuperised. 
 - 👯 I’m looking to collaborate on marketing related repositories (MMM Marketing Mix Modeling, Digital Attribution and Channel Optimizations) and other related projects.
 - 🤔 I’m looking for help with frontend applications embedded to display the results for the end users.
 - 💬 Ask me anything related to Media and Marketing, Business Intelligence & Process Transformation and Effective Data Analytics & Insights Delivery
