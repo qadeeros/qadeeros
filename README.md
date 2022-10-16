@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with frontend applications embedded to display the results for the end users.
 - 💬 Ask me anything related to Media and Marketing, Business Intelligence & Process Transformation and Effective Data Analytics & Insights Delivery
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In my free time I am streaming content on my TV or mobile device.
+- ⚡ Fun fact: I am streaming content on my TV or mobile device when I am not coding.
 
 ## Background ##
 Analytics consultant with over 15 years hands-on experience of implementing Analytics projects in the domain of marketing. Proficient in multiple coding languages and cloud platforms, including SQL and Python. Expertise with data visualisation tools as an end-user and developer of dashboards and apps (not admin tasks) including: Domo, Tableau, PowerBI and Data Studio.
