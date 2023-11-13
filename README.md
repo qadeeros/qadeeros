@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qadeer Ahmed</h1>
-<h3 align="center">A passionate analytics and data science professional with 15+ years of experience</h3>
+<h3 align="center">A passionate analytics and data science professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qadeeros&label=Profile%20views&color=0e75b6&style=flat" alt="qadeeros" /> </p>
 
